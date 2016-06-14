@@ -1,0 +1,7 @@
+src
+support
+test
+examples
+.gitignore
+.travis.yml
+dist
