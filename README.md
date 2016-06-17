@@ -8,9 +8,6 @@ package-name
 [![devDependency Status][icon-dds]][link-dds]
 [![License][icon-li]][link-li]
 
-( If you are reading this page on [npmjs.org][link-nv], I recommend you read it on 
-Github [package-name][link-gh-pro-home], because on Github it is more readable.)
-
 ## Browser support
 
 Chrome, Safari, Firefox, Opera, IE9+
@@ -29,7 +26,7 @@ Chrome, Safari, Firefox, Opera, IE9+
 
 ```js
 
-    var package = require('package-name');
+    var package-name = require('package-name');
 
 ```
 
@@ -39,8 +36,6 @@ Chrome, Safari, Firefox, Opera, IE9+
     npm test          
 ```
 
-
-[link-gh-pro-home]: https://github.com/wenwuwu/package-name
 
 [icon-nv]: https://img.shields.io/npm/v/package-name.svg?style=flat
 [link-nv]: https://www.npmjs.com/package/package-name
