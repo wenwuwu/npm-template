@@ -10,7 +10,7 @@ package-name
 
 ## Browser support
 
-Chrome, Safari, Firefox, Opera, IE9+
+Chrome, Safari, Firefox, Opera, IE9+        *TODO review*
 
 ## Installation 
 
@@ -28,12 +28,18 @@ Chrome, Safari, Firefox, Opera, IE9+
 
     var package-name = require('package-name');
 
+    /**
+    * TODO add doc.
+    */
+
 ```
 
 ## Tests
 
 ```shell
-    npm test          
+    # TODO add test.
+
+    npm test
 ```
 
 
