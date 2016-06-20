@@ -6,7 +6,7 @@ package-name
 [![Clean Code][icon-cc]][link-cc]
 [![Dependency Status][icon-ds]][link-ds]
 [![devDependency Status][icon-dds]][link-dds]
-[![License][icon-li]][link-li]
+![License][icon-li]
 
 ## Browser support
 
@@ -54,4 +54,3 @@ Chrome, Safari, Firefox, Opera, IE9+        *TODO review*
 [icon-cc]: https://img.shields.io/badge/code-clean-orange.svg?style=flat
 [link-cc]: https://github.com/wenwuwu/code-convention-js 
 [icon-li]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat
-[link-li]: http://opensource.org/licenses/MIT
