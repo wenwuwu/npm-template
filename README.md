@@ -10,7 +10,7 @@ package-name
 
 ## Browser support
 
-Chrome, Safari, Firefox, Opera, IE9+        *TODO review*
+**Desktop**: Chrome, Safari, Firefox, Opera, IE9+
 
 ## Installation 
 
@@ -28,19 +28,20 @@ Chrome, Safari, Firefox, Opera, IE9+        *TODO review*
 
     var package-name = require('package-name');
 
-    /**
-    * TODO add doc.
-    */
-
 ```
 
 ## Tests
 
 ```shell
-    # TODO add test.
-
     npm test
 ```
+
+## Todo
+
+- [ ] Add complete document :balloon:
+- [ ] Add test.
+- [ ] Review browsers supports.
+
 
 
 [icon-nv]: https://img.shields.io/npm/v/package-name.svg?style=flat
