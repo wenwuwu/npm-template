@@ -5,3 +5,4 @@ examples
 .gitignore
 .travis.yml
 dist
+.eslintrc.js
