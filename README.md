@@ -30,7 +30,7 @@ package-name
 
 ```
 
-## Tests
+## Test
 
 ```shell
     npm test
