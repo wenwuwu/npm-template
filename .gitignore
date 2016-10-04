@@ -27,6 +27,7 @@ coverage
 build/Release
 build
 build.js*
+demo/build
 dist
 tmp
 server.pro.js
